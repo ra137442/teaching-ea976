@@ -6,16 +6,28 @@ e responda às seguintes questões:
 
 1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
 
-	Resposta:
+	Resposta: Inicialmente, os autores coletaram pesquisas descrevendo 304 projetos. Porém, foram removidos da pesquisa os projetos com 
+um grande número de informações faltantes. Com isso, a amostra da pesquisa foi reduzida para 235 projetos de software, dos quais 
+70 foram considerados como falhas. Portanto, temos a proporção de 70/235, 29,78%, dos projetos considerados como falhas.
+	Contudo, este valor não é confiável, pois de acordo com a pesquisa, muitas organizações tentam mascarar a falha de 
+seus projetos, considerando-os como bem sucedidos mesmo quando nenhuma funcionalidade foi realizada.
+
 
 
 
 2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
 
-	Resposta:
+	Resposta: Dentre os fatores que podem comprometer o desenvolvimento de software, temos: o projeto foi subestimado e equipe adicionada
+tardiamente. Esses dois fatores possuem uma relação causal, de modo que devido ao fato de que o projeto foi inicialmente 
+subestimado, a atual equipe de desenvolvedores não consegue realizar as requisições necessáras no tempo adequado, 
+consequentemente é necessário adicionar-se novos desenvolvedores a equipe. A relação causal pode não parar nesse ponto, 
+por exemplo, com a adição tardia de novos membros pode acarretar numa equipe inadequada de desenvolvedores.
+
 
 
 
 3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
 
-	Resposta:
+	Resposta: Os autores sugerem que para que futuros projetos de software fracessem menos é necessário realizar-se revisões em
+projetos já encerrados, passados, pois as causas de falhas em projetos atuais são as mesmas que causaram falhas em projetos muitos
+anos antes. Desse modo, as mesmas falhas se repetem inúmeras vezes ao longo do tempo.
